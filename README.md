@@ -109,3 +109,6 @@ The dataset includes the following patient attributes:
 ## 🙋 Author
 
 Built as a data analysis project to explore clinical and lifestyle risk factors associated with heart attacks using real-world structured health data.
+
+Riddhima Sharma
+(1st year internship project)
